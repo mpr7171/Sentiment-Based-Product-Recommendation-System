@@ -1,0 +1,17 @@
+# Python cache / compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pickle files
+app/models
+
+# Virtual environment
+venv/
+.env/
+deployment/
+
+# Logs and temporary files
+*.log
+*.tmp
